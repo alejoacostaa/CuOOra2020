@@ -1,0 +1,3 @@
+methods
+guardarPregunta: unaPregunta
+	

@@ -6,7 +6,9 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"usuarios"
+		"usuarios",
+		"topicos",
+		"preguntas"
 	],
 	"name" : "Sistema",
 	"type" : "normal"
