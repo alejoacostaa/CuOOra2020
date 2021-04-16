@@ -1,2 +1,3 @@
 # CuOOra2020
-CuOOra2020 objetos II
+
+Basic social network web app made with Smalltalk using Seaside as the main web framework made for the final exam of Object Oriented Programming II over at UNLP.
